@@ -1,0 +1,22 @@
+{
+  "numeric_features": [
+    "sbp",
+    "ldl",
+    "adiposity",
+    "obesity",
+    "age"
+  ],
+  "categorical_features": [
+    "famhist"
+  ],
+  "feature_names": [
+    "sbp",
+    "ldl",
+    "adiposity",
+    "obesity",
+    "age",
+    "famhist_Present"
+  ],
+  "model_type": "Régression Logistique",
+  "target_classes": [
+    
